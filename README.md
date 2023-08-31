@@ -1,2 +1,2 @@
 # assignments
-all assignments for data science is here
+all assignments for data science course is here
